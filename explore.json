@@ -1,155 +1,163 @@
 {
   "trending": [
     {
-      "id": "unsplash_NNIo1tcFJF0",
-      "url": "https://images.unsplash.com/photo-1791395026864-d3da36e064f0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxfHx8fHx8MXx8MTc5MzYyODkxN3w&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1791395026864-d3da36e064f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxfHx8fHx8MXx8MTc5MzYyODkxN3w&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Rows of dairy cows inside a barn. Ohio, USA.",
-      "author": "Portraits of Modern Dairy",
-      "dominantColor": "#594026"
-    },
-    {
-      "id": "unsplash_wGaPO_Ka-ts",
-      "url": "https://images.unsplash.com/photo-1793291275774-23ae799f2ac8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyfHx8fHx8MXx8MTc5MzYyODkxN3w&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1793291275774-23ae799f2ac8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyfHx8fHx8MXx8MTc5MzYyODkxN3w&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A woman in a white patterned dress standing against a stone wall covered in ivy",
-      "author": "Zac Taheriyan",
-      "dominantColor": "#262626"
-    },
-    {
-      "id": "unsplash_MzXby629N3E",
-      "url": "https://images.unsplash.com/photo-1793296225976-dd92eeb74bab?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwzfHx8fHx8MXx8MTc5MzYyODkxN3w&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1793296225976-dd92eeb74bab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwzfHx8fHx8MXx8MTc5MzYyODkxN3w&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Fog",
-      "author": "Filip Kvasnak",
-      "dominantColor": "#262626"
-    },
-    {
-      "id": "unsplash_Fo9XEEIHNGU",
-      "url": "https://images.unsplash.com/photo-1793463986813-7e1b6370ca4a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw0fHx8fHx8MXx8MTc5MzYyODkxN3w&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1793463986813-7e1b6370ca4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw0fHx8fHx8MXx8MTc5MzYyODkxN3w&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Neuschwanstein Castle nestled in a forested mountain landscape with snow-capped peaks in the distance",
-      "author": "Luca Severin",
-      "dominantColor": "#d9d9d9"
-    },
-    {
-      "id": "unsplash_2GYiDYVOOSI",
-      "url": "https://images.unsplash.com/photo-1793457984081-2fa841fac172?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw1fHx8fHx8MXx8MTc5MzYyODkxN3w&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1793457984081-2fa841fac172?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw1fHx8fHx8MXx8MTc5MzYyODkxN3w&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Green palm fronds silhouetted against a bright sky with soft white clouds",
-      "author": "set.sj",
-      "dominantColor": "#d9d9d9"
-    },
-    {
-      "id": "unsplash_5GiNy6Z5HNI",
-      "url": "https://images.unsplash.com/photo-1793531381574-242097e252f7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw2fHx8fHx8MXx8MTc5MzYyODkxN3w&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1793531381574-242097e252f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw2fHx8fHx8MXx8MTc5MzYyODkxN3w&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Blurred clouds in shades of brown and grey with a hint of blue light",
-      "author": "Nataliya Melnychuk",
-      "dominantColor": "#c0a68c"
-    },
-    {
-      "id": "unsplash_F2AUTxuQzA0",
-      "url": "https://images.unsplash.com/photo-1793449162784-fa77abd22ef2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw3fHx8fHx8MXx8MTc5MzYyODkxN3w&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1793449162784-fa77abd22ef2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw3fHx8fHx8MXx8MTc5MzYyODkxN3w&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A short-eared owl in flight over a field of dry golden grass",
-      "author": "Matsvei Liatkouski",
-      "dominantColor": "#f3c08c"
-    },
-    {
-      "id": "unsplash_tgC6zTi75J8",
-      "url": "https://images.unsplash.com/photo-1789758385633-f95b3ad7a41d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHw4fHx8fHx8MXx8MTc5MzYyODkxN3w&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1789758385633-f95b3ad7a41d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHw4fHx8fHx8MXx8MTc5MzYyODkxN3w&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Middle Eastern inspired restaurant set under the open sky in the heart of the city. Location: Golden Avenue, Brisbane City, Brisbane",
-      "author": "Queensland, Australia",
-      "dominantColor": "#a6a6a6"
-    },
-    {
-      "id": "unsplash_H8qSs_hvmpc",
-      "url": "https://images.unsplash.com/photo-1793531110179-6af052479cc5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw5fHx8fHx8MXx8MTc5MzYyODkxN3w&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1793531110179-6af052479cc5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw5fHx8fHx8MXx8MTc5MzYyODkxN3w&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Shot on Kodak Gold 200",
-      "author": "Maximilian Bungart",
-      "dominantColor": "#404026"
-    },
-    {
-      "id": "unsplash_TvkNiEO3M1c",
-      "url": "https://images.unsplash.com/photo-1793531376973-07525fe23962?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMHx8fHx8fDF8fDE3OTM2Mjg5MTd8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1793531376973-07525fe23962?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMHx8fHx8fDF8fDE3OTM2Mjg5MTd8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Shot on Kodak Gold 200",
-      "author": "Maximilian Bungart",
-      "dominantColor": "#f3f3f3"
-    },
-    {
-      "id": "unsplash_KZ_oJc93gpQ",
-      "url": "https://images.unsplash.com/photo-1793559141324-6e65850719b0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMXx8fHx8fDF8fDE3OTM2Mjg5MTd8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1793559141324-6e65850719b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMXx8fHx8fDF8fDE3OTM2Mjg5MTd8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "An ornate stone colonnade under a clear blue sky, framed by green leaves in golden light",
-      "author": "Chloe",
-      "dominantColor": "#c0c0d9"
-    },
-    {
-      "id": "unsplash_W6SqKeB40kA",
-      "url": "https://images.unsplash.com/photo-1793451551758-dc59e0b817b7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMnx8fHx8fDF8fDE3OTM2Mjg5MTd8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1793451551758-dc59e0b817b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMnx8fHx8fDF8fDE3OTM2Mjg5MTd8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A bluethroat bird with a bright blue throat patch singing among tall green reeds",
-      "author": "Matsvei Liatkouski",
-      "dominantColor": "#d9d9c0"
-    },
-    {
-      "id": "unsplash_gJOi9vPBIt8",
-      "url": "https://images.unsplash.com/photo-1792980205896-4bc34b91b040?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxM3x8fHx8fDF8fDE3OTM2Mjg5MTd8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1792980205896-4bc34b91b040?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxM3x8fHx8fDF8fDE3OTM2Mjg5MTd8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Farmhouse Kitchen 2/2 (IG: @clay.banks)",
-      "author": "Clay Banks",
-      "dominantColor": "#a68c73"
-    },
-    {
-      "id": "unsplash_mBMm8GAkC-Y",
-      "url": "https://images.unsplash.com/photo-1791395533823-5b7931eb4a9f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxNHx8fHx8fDF8fDE3OTM2Mjg5MTd8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1791395533823-5b7931eb4a9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxNHx8fHx8fDF8fDE3OTM2Mjg5MTd8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Woman in a cowboy hat beside dairy cows. Texas, USA.",
+      "id": "unsplash_IxeYb6E8xYk",
+      "url": "https://images.unsplash.com/photo-1791395534015-a4479e0649a1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxfHx8fHx8MXx8MTc5Mzc0NTczMnw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1791395534015-a4479e0649a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxfHx8fHx8MXx8MTc5Mzc0NTczMnw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Cows eating inside a dairy barn. Maryland, USA.",
       "author": "Portraits of Modern Dairy",
       "dominantColor": "#260c0c"
     },
     {
-      "id": "unsplash_b0LS4i6xSzo",
-      "url": "https://images.unsplash.com/photo-1793004196263-c41e5e44fabc?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNXx8fHx8fDF8fDE3OTM2Mjg5MTd8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1793004196263-c41e5e44fabc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNXx8fHx8fDF8fDE3OTM2Mjg5MTd8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A baby in a plastic seat resting feet on an adult lying on a sandy beach",
-      "author": "Stacey Zinoveva",
+      "id": "unsplash_gT77IyIFSVs",
+      "url": "https://images.unsplash.com/photo-1793620082638-be7651d41dc8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyfHx8fHx8MXx8MTc5Mzc0NTczMnw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1793620082638-be7651d41dc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyfHx8fHx8MXx8MTc5Mzc0NTczMnw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Hunter Moon",
+      "author": "Jeremy Hynes",
+      "dominantColor": "#404040"
+    },
+    {
+      "id": "unsplash_EwOVrxiQ1vg",
+      "url": "https://images.unsplash.com/photo-1793620802226-4898954a65e3?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwzfHx8fHx8MXx8MTc5Mzc0NTczMnw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1793620802226-4898954a65e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwzfHx8fHx8MXx8MTc5Mzc0NTczMnw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Morning View",
+      "author": "João Emanuel",
+      "dominantColor": "#c0c0a6"
+    },
+    {
+      "id": "unsplash_Up7AZSvzD0s",
+      "url": "https://images.unsplash.com/photo-1793634851145-ea7457c8b9bf?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw0fHx8fHx8MXx8MTc5Mzc0NTczMnw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1793634851145-ea7457c8b9bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw0fHx8fHx8MXx8MTc5Mzc0NTczMnw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Assorted small pumpkins and gourds spilling from two terracotta pots onto a bed of straw",
+      "author": "Tegan Conway",
+      "dominantColor": "#262626"
+    },
+    {
+      "id": "unsplash_i0oj5sI3wh8",
+      "url": "https://images.unsplash.com/photo-1793638756289-ceef75d6f2c2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw1fHx8fHx8MXx8MTc5Mzc0NTczMnw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1793638756289-ceef75d6f2c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw1fHx8fHx8MXx8MTc5Mzc0NTczMnw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A photographer and a man look out at the Adriatic Sea, framed by an old tunnel arch on a coastal path in Montenegro.",
+      "author": "Alexander Akimenko",
+      "dominantColor": "#c0c0c0"
+    },
+    {
+      "id": "unsplash_6zlYJFHRgLE",
+      "url": "https://images.unsplash.com/photo-1793641676337-25887190afdf?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw2fHx8fHx8MXx8MTc5Mzc0NTczMnw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1793641676337-25887190afdf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw2fHx8fHx8MXx8MTc5Mzc0NTczMnw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A silhouette of a houseplant cast onto a sheer curtain by warm golden hour light",
+      "author": "Benjamin Chambon",
+      "dominantColor": "#26260c"
+    },
+    {
+      "id": "unsplash_3pWqPgm5m3k",
+      "url": "https://images.unsplash.com/photo-1793641656408-2a885b997f90?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw3fHx8fHx8MXx8MTc5Mzc0NTczMnw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1793641656408-2a885b997f90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw3fHx8fHx8MXx8MTc5Mzc0NTczMnw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A person in silhouette against a warm orange wall with an intercom",
+      "author": "Benjamin Chambon",
+      "dominantColor": "#262626"
+    },
+    {
+      "id": "unsplash_ir4rabHGhQ8",
+      "url": "https://images.unsplash.com/photo-1789758385742-645bc3e96ecb?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHw4fHx8fHx8MXx8MTc5Mzc0NTczMnw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1789758385742-645bc3e96ecb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHw4fHx8fHx8MXx8MTc5Mzc0NTczMnw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Couple walking through the iconic luxury retail precinct. Location: Fortitude Valley, James Street, Brisbane",
+      "author": "Queensland, Australia",
       "dominantColor": "#8c8c73"
     },
     {
-      "id": "unsplash_soCuM0pBnPE",
-      "url": "https://images.unsplash.com/photo-1793100123531-4924ea242f5f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNnx8fHx8fDF8fDE3OTM2Mjg5MTd8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1793100123531-4924ea242f5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNnx8fHx8fDF8fDE3OTM2Mjg5MTd8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A smooth white stone on a textured rock beside a dropper bottle and dried lavender",
-      "author": "Nataliya Melnychuk",
-      "dominantColor": "#f3d9c0"
+      "id": "unsplash_XT_GIn0OdZE",
+      "url": "https://images.unsplash.com/photo-1793637222605-8a808d64f073?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw5fHx8fHx8MXx8MTc5Mzc0NTczMnw&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1793637222605-8a808d64f073?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHw5fHx8fHx8MXx8MTc5Mzc0NTczMnw&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Golden lights streak around a spinning swing carousel as riders blur into the twilight, capturing the rush of a carnival ride.",
+      "author": "Ruben Mavarez",
+      "dominantColor": "#260c0c"
     },
     {
-      "id": "unsplash__Px24n_ZFZg",
-      "url": "https://images.unsplash.com/photo-1793067321405-31bad6764f8d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxN3x8fHx8fDF8fDE3OTM2Mjg5MTd8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1793067321405-31bad6764f8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxN3x8fHx8fDF8fDE3OTM2Mjg5MTd8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "A woman in a white headscarf and t-shirt watching colorful koi fish in a pond",
-      "author": "Leonardo Iribe",
-      "dominantColor": "#c0a68c"
+      "id": "unsplash_WEKPNhAgvHU",
+      "url": "https://images.unsplash.com/photo-1793644333465-57db6bf74bf2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMHx8fHx8fDF8fDE3OTM3NDU3MzJ8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1793644333465-57db6bf74bf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMHx8fHx8fDF8fDE3OTM3NDU3MzJ8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Paris reveals its timeless beauty through the magnificent Arc de Triomphe, an extraordinary monument surrounded by the energy of one of Europe's most famous cities. The impressive triumphal arch showcases classical French architecture, monumental stonework, historic sculptures, intricate ornaments, and powerful geometric symmetry. Its iconic silhouette creates a striking contrast against the Parisian sky, making it a perfect subject for travel photography, urban landscapes, and architectural compositions. Located at the western end of the Champs-Élysées, this historic landmark embodies French",
+      "author": "Lens by Benji",
+      "dominantColor": "#f3f3f3"
     },
     {
-      "id": "unsplash_CtmO3PZaxmU",
-      "url": "https://images.unsplash.com/photo-1793143765092-dd507da9bffe?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOHx8fHx8fDF8fDE3OTM2Mjg5MTd8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1793143765092-dd507da9bffe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOHx8fHx8fDF8fDE3OTM2Mjg5MTd8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Country Dining Room (IG: @clay.banks)",
-      "author": "Clay Banks",
-      "dominantColor": "#a68c59"
+      "id": "unsplash_pua5Gx5bagM",
+      "url": "https://images.unsplash.com/photo-1793611321172-72d5314ac76c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMXx8fHx8fDF8fDE3OTM3NDU3MzJ8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1793611321172-72d5314ac76c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMXx8fHx8fDF8fDE3OTM3NDU3MzJ8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "People crossing a busy street in New York City surrounded by tall glass skyscrapers",
+      "author": "Georgi Kalaydzhiev",
+      "dominantColor": "#404040"
     },
     {
-      "id": "unsplash_awX4mhceNgY",
-      "url": "https://images.unsplash.com/photo-1793363605725-f4dc80e33a34?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOXx8fHx8fDF8fDE3OTM2Mjg5MTd8&ixlib=rb-4.1.0&q=85",
-      "thumbnail": "https://images.unsplash.com/photo-1793363605725-f4dc80e33a34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOXx8fHx8fDF8fDE3OTM2Mjg5MTd8&ixlib=rb-4.1.0&q=80&w=400",
-      "title": "Two people outside Capela das Almas, Porto.",
-      "author": "Miguel Sousa",
+      "id": "unsplash_RkPlYk8lnxE",
+      "url": "https://images.unsplash.com/photo-1793559141197-6f3526020346?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMnx8fHx8fDF8fDE3OTM3NDU3MzJ8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1793559141197-6f3526020346?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxMnx8fHx8fDF8fDE3OTM3NDU3MzJ8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A stone rotunda with classical columns surrounded by autumn trees in golden sunlight",
+      "author": "Chloe",
+      "dominantColor": "#594026"
+    },
+    {
+      "id": "unsplash_FIyupeqYANY",
+      "url": "https://images.unsplash.com/photo-1793613345082-8397856e363c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxM3x8fHx8fDF8fDE3OTM3NDU3MzJ8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1793613345082-8397856e363c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxM3x8fHx8fDF8fDE3OTM3NDU3MzJ8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A modern living room with a cream sectional sofa, wooden coffee table, and dining area",
+      "author": "Salvador Godoy",
+      "dominantColor": "#8c7373"
+    },
+    {
+      "id": "unsplash_VtQbTg2_A84",
+      "url": "https://images.unsplash.com/photo-1793622405407-b090e348131f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNHx8fHx8fDF8fDE3OTM3NDU3MzJ8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1793622405407-b090e348131f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNHx8fHx8fDF8fDE3OTM3NDU3MzJ8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Trees wrapped in warm fairy lights along a canal reflecting buildings and a church tower at night",
+      "author": "Bruno da Costa",
+      "dominantColor": "#0c2626"
+    },
+    {
+      "id": "unsplash_GBawq-mGT_A",
+      "url": "https://images.unsplash.com/photo-1791395534265-7bed9990282c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxNXx8fHx8fDF8fDE3OTM3NDU3MzJ8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1791395534265-7bed9990282c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MXwxfGFsbHwxNXx8fHx8fDF8fDE3OTM3NDU3MzJ8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Woman using a robotic milking touchscreen. Ohio, USA.",
+      "author": "Portraits of Modern Dairy",
+      "dominantColor": "#8c0c0c"
+    },
+    {
+      "id": "unsplash_tgcbKq1UeJ8",
+      "url": "https://images.unsplash.com/photo-1793610800186-16bf28e92274?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNnx8fHx8fDF8fDE3OTM3NDU3MzJ8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1793610800186-16bf28e92274?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxNnx8fHx8fDF8fDE3OTM3NDU3MzJ8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A child in a brown vest and yellow shirt standing in tall grass near a cardboard house",
+      "author": "Ana Curcan",
+      "dominantColor": "#404026"
+    },
+    {
+      "id": "unsplash_hWIjzG4WX70",
+      "url": "https://images.unsplash.com/photo-1793379223907-05c08bd11c70?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxN3x8fHx8fDF8fDE3OTM3NDU3MzJ8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1793379223907-05c08bd11c70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxN3x8fHx8fDF8fDE3OTM3NDU3MzJ8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "Aerial view of Nazaré coastline in Portugal at sunset. Dramatic golden cliffs overlook the Atlantic Ocean, with a sandy beach, coastal pathways and traditional seaside town in the background. Beautiful panoramic landscape of the Portuguese coast.",
+      "author": "Viktorija Demjanenko",
+      "dominantColor": "#737373"
+    },
+    {
+      "id": "unsplash_gzZe9L7JQvM",
+      "url": "https://images.unsplash.com/photo-1793378994406-bf6b5d3afb41?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOHx8fHx8fDF8fDE3OTM3NDU3MzJ8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1793378994406-bf6b5d3afb41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOHx8fHx8fDF8fDE3OTM3NDU3MzJ8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A woman with auburn hair in a brown jacket standing beneath a green shade cloth",
+      "author": "Zac Taheriyan",
+      "dominantColor": "#26260c"
+    },
+    {
+      "id": "unsplash_BmTcWtu9V-o",
+      "url": "https://images.unsplash.com/photo-1793476196460-ac85a1bcda5b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOXx8fHx8fDF8fDE3OTM3NDU3MzJ8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1793476196460-ac85a1bcda5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwxOXx8fHx8fDF8fDE3OTM3NDU3MzJ8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A large flock of birds flying between a stone dome and historic buildings in Edinburgh",
+      "author": "Bruno BD",
+      "dominantColor": "#59a6c0"
+    },
+    {
+      "id": "unsplash__rZlDZER7M8",
+      "url": "https://images.unsplash.com/photo-1793518410348-740c8d223042?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyMHx8fHx8fDF8fDE3OTM3NDU3MzJ8&ixlib=rb-4.1.0&q=85",
+      "thumbnail": "https://images.unsplash.com/photo-1793518410348-740c8d223042?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTYzNjd8MHwxfGFsbHwyMHx8fHx8fDF8fDE3OTM3NDU3MzJ8&ixlib=rb-4.1.0&q=80&w=400",
+      "title": "A sign reading We Buy Gold-Diamonds and Jewellery hanging before modern glass buildings",
+      "author": "T",
       "dominantColor": "#262626"
     }
   ],
@@ -159,77 +167,77 @@
       "slug": "wallpapers",
       "title": "Wallpapers",
       "description": "From epic drone shots to inspiring moments in nature — enjoy the best background for your desktop or mobile.\r\n\r\n",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1786296462119-79cff92af5b2?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1792912876223-0789eefc71b5?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "bk0hPaquVeE",
       "slug": "Fall",
       "title": "Fall",
       "description": "From autumn leaves to brisk landscapes, this category captures the best of what Fall has to offer.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1789731717491-0f141df786fe?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://images.unsplash.com/photo-1793556119647-46da040a5a4c?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "6sMVjTLSkeQ",
       "slug": "nature",
       "title": "Nature",
       "description": "This category showcases nature’s beauty, from vast landscapes to macro details, transporting viewers to the outdoors.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1764253265680-a29ef79b0e89?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1781653487728-dd5ad53b159e?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "CDwuwXJAbEw",
       "slug": "3d-renders",
       "title": "3D Renders",
       "description": "This category showcases digitally rendered creations that blend technology and art, exploring the limitless potential of digital creativity.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1793132666687-447813b5abcf?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1791816738284-bb7a26599648?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "qPYsDzvJOYc",
       "slug": "experimental",
       "title": "Experimental",
       "description": "This category invites photographers to explore new techniques and perspectives, pushing creative boundaries.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1763406914891-8fc85830fbcd?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1791924706878-7ec3658bd097?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "hmenvQhUmxM",
       "slug": "film",
       "title": "Film",
       "description": "This category celebrates film's timeless beauty, capturing moments with rich textures and unique colors that define analog photography.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1792071595173-9d3abf536066?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1773267570645-96ee388fdec5?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "xHxYTMHLgOc",
       "slug": "street-photography",
       "title": "Street Photography",
       "description": "From quiet passages in charming towns to the hustle and bustle of cities, this category examines street photography in every form.\r\n",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1787575501204-3f9e8724d3c1?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1775114365371-3e43c4c6d226?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "M8jVbLbTRws",
       "slug": "architecture-interior",
       "title": "Architecture",
       "description": "Celebrating the artistry of spaces, this category highlights stunning photography of architecture and interiors. ",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1790298473563-08698d9f42dc?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1792674568534-9c8464d6dd98?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "iUIsnVtjB0Y",
       "slug": "textures-patterns",
       "title": "Textures",
       "description": "Whether you’re looking for stunning macro-photography or shots of complex architectural shapes — you’ve come to the right place.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1774881398834-a594b6045704?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1780389082032-23d7ec0cf42b?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "Fzo3zuOHN6w",
       "slug": "travel",
       "title": "Travel",
       "description": "Explore the globe through captivating landscapes and vibrant cultures in this Travel category, celebrating diverse destinations worldwide.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1783869714490-8e61ca9dbeab?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1783241069772-304e6c4ba99b?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "towJZFskpGg",
       "slug": "people",
       "title": "People",
       "description": "In this category, photographers capture emotions, cultures, and stories through candid moments and formal portraits.",
-      "coverPhoto": "https://plus.unsplash.com/premium_photo-1781687598798-ef60ae1baff4?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_photo-1787414384668-6ea7d75189ef?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "QWPACXkZ93I",
@@ -250,15 +258,15 @@
       "slug": "illustration-business-tech",
       "title": "Business & Tech",
       "description": "Concept-driven illustrations that visualize modern work, technology, innovation, and digital life.",
-      "coverPhoto": "https://plus.unsplash.com/premium_vector-1777767104162-e173319a1094?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_vector-1777880247709-d8a7983be256?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     },
     {
       "id": "MXYPPfPdkcw",
       "slug": "illustration-food-drink",
       "title": "Food & Drink",
       "description": "Illustrations celebrating food culture, from ingredients and recipes to drinks, dining, and everyday indulgences.",
-      "coverPhoto": "https://plus.unsplash.com/premium_vector-1788289236093-9d65276234c8?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+      "coverPhoto": "https://plus.unsplash.com/premium_vector-1788553893272-edeebed91759?ixlib=rb-4.1.0&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
     }
   ],
-  "updatedAt": "2026-11-03T13:16:24.463Z"
+  "updatedAt": "2026-11-03T22:42:12.744Z"
 }
